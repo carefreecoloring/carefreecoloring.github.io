@@ -2217,6 +2217,14 @@ input, select, textarea {
 			background-image: url("images/overlay.png");
 		}
 
+		#main .dark-text {
+				color: #444444 !important;
+			}
+
+		#main .dark-text-strong {
+			color: #b8d432 !important;
+		}
+
 			#main > section.dark {
 				color: #ddd;
 				color: rgba(255, 255, 255, 0.75);
